@@ -7,5 +7,5 @@ return updatePlaylist
 
 
 function removeFromPlaylist (playlist,artistName) {
-  return removeFromPlaylist
+  return removeFromPlaylist()
 }
